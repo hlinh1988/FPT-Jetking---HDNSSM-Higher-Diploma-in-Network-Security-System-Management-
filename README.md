@@ -47,6 +47,7 @@ Showcase: https://www.youtube.com/watch?v=mRlC1DWZT_Y&ab_channel=FPTJetking
 **FPT Jetking is an official member of Active AWS Academy Member Institutions from 2022 (https://aws.amazon.com/vi/training/awsacademy/member-list/). After finishing Semester-3, students will be provided an AWS Academy account to prepare some courses:
 1 - AWS Academy Cloud Foundations
 2 - AWS Academy Cloud Security Foundations
+3 - AWS Academy Learner Lab [Credit 100$/student]
 ***Community for University students: VAUG | Viet-AWS University Group (https://www.facebook.com/groups/580851063861605)
 IV. Semester-IV:
 4.1. Working with Cloud - 2 [AWS]
