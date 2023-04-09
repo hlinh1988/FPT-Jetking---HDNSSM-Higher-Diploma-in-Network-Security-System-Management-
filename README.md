@@ -1,5 +1,7 @@
 # FPT-Jetking---HDNSSM [Higher-Diploma-in-Network-Security-System-Management]
+
 Learning path guideline for FPT Jetking's students who are studying the HDNSSM program (https://www.youtube.com/watch?v=NC3fWQvWXrQ&ab_channel=FPTJetking)
+
 This training program (HDNSSM) was released in 2019 by Jetking Infotrain - India (https://jetking.com/) for FPT Jetking, it included 4 semesters:
 
 I. Semester-I:
