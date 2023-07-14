@@ -102,15 +102,15 @@ AWS Academy Cloud Architectin [AWS Academy]
 
 https://training.fortinet.com/local/staticpage/view.php?page=library_the-evolution-of-cybersecurity
 
-https://www.coursera.org/learn/network-defense-essentials-nde Network Defense Essentials (NDE)]
+https://codered.eccouncil.org/course/network-defense-essentials
 
 4.3. Ethical Hacking
 
-https://www.coursera.org/learn/ethical-hacking-essentials-ehe [Ethical Hacking Essentials (EHE)]
+https://codered.eccouncil.org/course/ethical-hacking-essentials
 
 4.4. Digital Forensics
 
-https://www.coursera.org/learn/digital-forensics-essentials-dfe [Digital Forensics Essentials (DFE)]
+https://codered.eccouncil.org/course/digital-forensics-essentials
 
 4.5. Project-4 [Penetration testing and digital forensics from on-premise/hybrid-cloud network services]
 
